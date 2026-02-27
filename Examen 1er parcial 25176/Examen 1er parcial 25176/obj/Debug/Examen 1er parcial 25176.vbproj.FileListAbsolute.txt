@@ -1,0 +1,12 @@
+C:\ALBERTO 25176\Examen 1er parcial 25176\Examen 1er parcial 25176\bin\Debug\Examen 1er parcial 25176.exe.config
+C:\ALBERTO 25176\Examen 1er parcial 25176\Examen 1er parcial 25176\bin\Debug\Examen 1er parcial 25176.exe
+C:\ALBERTO 25176\Examen 1er parcial 25176\Examen 1er parcial 25176\bin\Debug\Examen 1er parcial 25176.pdb
+C:\ALBERTO 25176\Examen 1er parcial 25176\Examen 1er parcial 25176\bin\Debug\Examen 1er parcial 25176.xml
+C:\ALBERTO 25176\Examen 1er parcial 25176\Examen 1er parcial 25176\obj\Debug\Examen 1er parcial 25176.vbprojAssemblyReference.cache
+C:\ALBERTO 25176\Examen 1er parcial 25176\Examen 1er parcial 25176\obj\Debug\Examen_1er_parcial_25176.Form1.resources
+C:\ALBERTO 25176\Examen 1er parcial 25176\Examen 1er parcial 25176\obj\Debug\Examen_1er_parcial_25176.Resources.resources
+C:\ALBERTO 25176\Examen 1er parcial 25176\Examen 1er parcial 25176\obj\Debug\Examen 1er parcial 25176.vbproj.GenerateResource.cache
+C:\ALBERTO 25176\Examen 1er parcial 25176\Examen 1er parcial 25176\obj\Debug\Examen 1er parcial 25176.vbproj.CoreCompileInputs.cache
+C:\ALBERTO 25176\Examen 1er parcial 25176\Examen 1er parcial 25176\obj\Debug\Examen 1er parcial 25176.exe
+C:\ALBERTO 25176\Examen 1er parcial 25176\Examen 1er parcial 25176\obj\Debug\Examen 1er parcial 25176.xml
+C:\ALBERTO 25176\Examen 1er parcial 25176\Examen 1er parcial 25176\obj\Debug\Examen 1er parcial 25176.pdb
